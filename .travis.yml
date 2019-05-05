@@ -3,9 +3,7 @@ node_js:
   - '8'
 addons:
   ssh_known_hosts: os-js.org
-cache:
-  directories:
-    - node_modules
+cache: npm
 install:
   - npm install -g gitbook gitbook-cli
   - npm install
@@ -25,6 +23,6 @@ before_deploy:
 deploy:
   provider: script
   skip_cleanup: true
-  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/dist <ssh-user>@<deploy-host>:/data/manual/travis
+  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/dist anders@os-js.org:/data/manual/travis
   on:
     branch: feature/travis-ci
