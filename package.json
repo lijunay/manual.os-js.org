@@ -26,7 +26,7 @@
     "gitbook-plugin-alerts": "^0.2.0",
     "gitbook-plugin-codepen": "^0.1.2",
     "gitbook-plugin-edit-link": "^2.0.2",
-    "gitbook-plugin-ga": "^2.0.0",
+    "gitbook-plugin-ga": "^1.0.1",
     "gitbook-plugin-sitemap": "git+https://github.com/andersevenrud/plugin-sitemap.git#master",
     "handlebars": "^4.1.2",
     "metalsmith": "^2.1.0",

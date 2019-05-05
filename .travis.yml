@@ -13,9 +13,10 @@ script:
   - gitbook build
   - node index.js
   - mkdir dist
-  - cp public/* dist/
+  - cp public/*.* dist/
   - cp -r _metalsmith dist/v2
   - cp -r _book dist/v3
+  - echo "$GA_CONTENTS" > "dist/${GA_FILENAME}"
   - echo "$GA_CONTENTS" > "dist/v2/${GA_FILENAME}"
   - echo "$GA_CONTENTS" > "dist/v2/${GA_FILENAME}"
 before_deploy:
