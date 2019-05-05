@@ -26,5 +26,5 @@ deploy:
   provider: script
   skip_cleanup: true
   script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/dist <ssh-user>@<deploy-host>:/data/manual/travis
-#  on:
-#    branch: master
+  on:
+    branch: feature/travis-ci
