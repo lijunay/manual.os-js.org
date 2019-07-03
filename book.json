@@ -20,8 +20,8 @@
       "token": "UA-90971004-4"
     },
     "edit-link": {
-      "base": "https://github.com/os-js/manual.os-js.org/edit/master/src/v3",
-      "label": "Edit this page"
+      "base": "https://github.com/lijunay/manual.os-js.org/edit/master/src/v3",
+      "label": "编辑当前页"
     }
   }
 }
