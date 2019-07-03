@@ -1,14 +1,14 @@
 {
-  "name": "osjs-manual",
+  "name": "osjs-zh_cn-manual",
   "version": "1.0.0",
-  "description": "OS.js Manual",
+  "description": "OS.js 中文版手册",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/os-js/manual.os-js.org.git"
+    "url": "git+https://github.com/lijunay/manual.os-js.org.git"
   },
   "keywords": [
     "os.js"

@@ -1,40 +1,40 @@
-# Summary
+# 概述
 
-* [Introduction](README.md)
-* [FAQ](FAQ.md)
+* [引言](README.md)
+* [常见问题](FAQ.md)
 
 ----
 
-### Resources
+### 资源
 
-* [Overview](resource/overview/README.md)
-* [Official](resource/official/README.md)
-* [Contributions](resource/contrib/README.md)
+* [概况](resource/overview/README.md)
+* [官方](resource/official/README.md)
+* [捐助](resource/contrib/README.md)
 
-### Getting Started
+### 入门
 
-* Installation
-  * [Requirements](install/README.md#requirements)
-  * [Demo](install/README.md#demo)
-  * [Setup](install/README.md#setup)
-  * [Upgrade](install/README.md#upgrade)
-  * [Remove Packages](install/README.md#remove-packages)
-* Configure
-  * [Client](config/README.md#client)
-  * [Server](config/README.md#server)
-  * [Caveats](config/README.md#caveats)
-* Development
-  * [Introduction](development/README.md#introduction)
-  * [Building](development/README.md#building)
-  * [Naming](development/README.md#naming)
-  * [Modules](development/README.md#modules)
-  * [Packages](development/README.md#packages)
-  * [Contributing](development/README.md#contributing)
-  * [Publishing](development/README.md#publishing)
+* 安装
+  * [要求](install/README.md#requirements)
+  * [演示](install/README.md#demo)
+  * [安装](install/README.md#setup)
+  * [升级](install/README.md#upgrade)
+  * [删除软件包](install/README.md#remove-packages)
+* 配置
+  * [客户端](config/README.md#client)
+  * [服务器](config/README.md#server)
+  * [注意事项](config/README.md#caveats)
+* 开发
+  * [介绍](development/README.md#introduction)
+  * [构建](development/README.md#building)
+  * [命名](development/README.md#naming)
+  * [模块](development/README.md#modules)
+  * [软件包](development/README.md#packages)
+  * [贡献](development/README.md#contributing)
+  * [发布](development/README.md#publishing)
 
-### Tutorials
+### 教程
 
-* [Application](tutorial/application/README.md)
+* [应用程序](tutorial/application/README.md)
   * [Creation](tutorial/application/README.md#creation)
   * [Metadata](tutorial/application/README.md#metadata)
   * [Basic Example](tutorial/application/README.md#basic-example)
@@ -46,13 +46,13 @@
   * [Settings](tutorial/application/README.md#settings)
   * [Launch Arguments](tutorial/application/README.md#launch-arguments)
   * [Session](tutorial/application/README.md#session)
-* [Theme](tutorial/theme/README.md)
+* [主题](tutorial/theme/README.md)
   * [Usage](tutorial/theme/README.md#usage)
   * [Creation](tutorial/theme/README.md#creation)
   * [Metadata](tutorial/theme/README.md#metadata)
   * [Styles](tutorial/theme/README.md#styles)
   * [Icons](tutorial/theme/README.md#icons)
-* [Window](tutorial/window/README.md)
+* [窗口](tutorial/window/README.md)
   * [Usage](tutorial/window/README.md#usage)
   * [Render](tutorial/window/README.md#render)
   * [Options](tutorial/window/README.md#options)
@@ -60,23 +60,23 @@
   * [Events](tutorial/window/README.md#events)
   * [Methods](tutorial/window/README.md#methods)
   * [Media Queries](tutorial/window/README.md#media-queries)
-* [Dialog](tutorial/dialog/README.md)
+* [对话框](tutorial/dialog/README.md)
   * [Usage](tutorial/dialog/README.md#usage)
   * [Custom Dialog](tutorial/dialog/README.md#custom-dialog)
   * [Registration](tutorial/dialog/README.md#registration)
   * [Programmatic](tutorial/dialog/README.md#programmatic)
   * [GUI](tutorial/dialog/README.md#gui)
-* [GUI](tutorial/gui/README.md)
+* [图形用户界面（GUI）](tutorial/gui/README.md)
   * [Usage](tutorial/gui/README.md#usage)
   * [Basic Example](tutorial/gui/README.md#basic-example)
   * [JSX](tutorial/gui/README.md#jsx)
   * [Contextmenu](tutorial/gui/README.md#contextmenu)
   * [Components](tutorial/gui/README.md#components)
-* [Service Provider](tutorial/provider/README.md)
+* [服务提供者](tutorial/provider/README.md)
   * [Usage](tutorial/provider/README.md#usage)
   * [Custom Service Provider](tutorial/provider/README.md#custom-service-provider)
   * [Basic Example](tutorial/provider/README.md#basic-example)
-* [VFS](tutorial/vfs/README.md)
+* [虚拟文件系统（VFS）](tutorial/vfs/README.md)
   * [Usage](tutorial/vfs/README.md#usage)
   * [Methods](tutorial/vfs/README.md#methods)
   * [Stat](tutorial/vfs/README.md#stat)
@@ -88,19 +88,19 @@
   * [Raw Routes](tutorial/express/README.md#raw-routes)
   * [Middleware and Extensions](tutorial/express/README.md#middleware-and-extensions)
   * [Sessions](tutorial/express/README.md#sessions)
-* [Settings](tutorial/settings/README.md)
+* [设置](tutorial/settings/README.md)
   * [Usage](tutorial/settings/README.md#usage)
   * [Custom Settings Adapter](tutorial/settings/README.md#custom-settings-adapter)
-* [Authentication](tutorial/auth/README.md)
+* [认证](tutorial/auth/README.md)
   * [Usage](tutorial/auth/README.md#usage)
   * [User Information](tutorial/auth/README.md#user-information)
   * [Custom Authentication Adapter](tutorial/auth/README.md#custom-authentication-adapter)
-* Desktop
+* 桌面
   * [Panel Item](tutorial/panel/README.md)
   * [Widget](tutorial/widget/README.md)
   * [Notification](tutorial/notification/README.md)
   * [Tray](tutorial/tray/README.md)
-* Misc
+* 杂项
   * [Core](tutorial/core/README.md)
   * [Localization](tutorial/locale/README.md)
   * [Bus](tutorial/bus/README.md)
@@ -108,7 +108,7 @@
   * [Drag-and-Drop](tutorial/dnd/README.md)
   * [IFrames](tutorial/iframe/README.md)
 
-### Guides
+### 指南
 
 * [Migration](guide/migrate/README.md)
 * [CLI](guide/cli/README.md)
